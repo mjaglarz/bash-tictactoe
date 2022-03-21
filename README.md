@@ -1,2 +1,1 @@
-# bash-tictactoe
-Tic-Tac-Toe game written in Bash
+Tic-Tac-Toe game written in Bash for Scripting languages classes.
