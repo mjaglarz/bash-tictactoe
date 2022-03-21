@@ -35,10 +35,10 @@ printinfo(){
     echo "1   ${Arr[3]} ${Arr[4]} ${Arr[5]}"
     echo "2   ${Arr[6]} ${Arr[7]} ${Arr[8]}"
     echo ""
-    echo "  Commands:"
-    echo "      1. set [row] [column]"
-    echo "      2. restart"
-    echo "      3. exit"
+    echo "Commands:"
+    echo "1. set [row] [column]"
+    echo "2. restart"
+    echo "3. exit"
     echo "======================="
 }
 
@@ -49,9 +49,9 @@ printgameover(){
     player=$(($1%2 + 1))
     echo "Player $player ($2) wins!!!"
     echo ""
-    echo "  Commands:"
-    echo "      1. restart"
-    echo "      2. exit"
+    echo "Commands:"
+    echo "1. restart"
+    echo "2. exit"
 }
 
 
