@@ -6,4 +6,4 @@ Features:
 - player vs player game
 - UI representing grid with X's and O's
 - save game to file and load it to continue
-- restart game or exit
+- restart or exit the game
